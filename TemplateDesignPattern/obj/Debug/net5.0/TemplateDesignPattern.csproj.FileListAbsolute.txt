@@ -1,0 +1,16 @@
+C:\Users\apadg\source\repos\TemplateDesignPattern\bin\Debug\net5.0\TemplateDesignPattern.exe
+C:\Users\apadg\source\repos\TemplateDesignPattern\bin\Debug\net5.0\TemplateDesignPattern.deps.json
+C:\Users\apadg\source\repos\TemplateDesignPattern\bin\Debug\net5.0\TemplateDesignPattern.runtimeconfig.json
+C:\Users\apadg\source\repos\TemplateDesignPattern\bin\Debug\net5.0\TemplateDesignPattern.runtimeconfig.dev.json
+C:\Users\apadg\source\repos\TemplateDesignPattern\bin\Debug\net5.0\TemplateDesignPattern.dll
+C:\Users\apadg\source\repos\TemplateDesignPattern\bin\Debug\net5.0\ref\TemplateDesignPattern.dll
+C:\Users\apadg\source\repos\TemplateDesignPattern\bin\Debug\net5.0\TemplateDesignPattern.pdb
+C:\Users\apadg\source\repos\TemplateDesignPattern\obj\Debug\net5.0\TemplateDesignPattern.csproj.AssemblyReference.cache
+C:\Users\apadg\source\repos\TemplateDesignPattern\obj\Debug\net5.0\TemplateDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apadg\source\repos\TemplateDesignPattern\obj\Debug\net5.0\TemplateDesignPattern.AssemblyInfoInputs.cache
+C:\Users\apadg\source\repos\TemplateDesignPattern\obj\Debug\net5.0\TemplateDesignPattern.AssemblyInfo.cs
+C:\Users\apadg\source\repos\TemplateDesignPattern\obj\Debug\net5.0\TemplateDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\apadg\source\repos\TemplateDesignPattern\obj\Debug\net5.0\TemplateDesignPattern.dll
+C:\Users\apadg\source\repos\TemplateDesignPattern\obj\Debug\net5.0\ref\TemplateDesignPattern.dll
+C:\Users\apadg\source\repos\TemplateDesignPattern\obj\Debug\net5.0\TemplateDesignPattern.pdb
+C:\Users\apadg\source\repos\TemplateDesignPattern\obj\Debug\net5.0\TemplateDesignPattern.genruntimeconfig.cache

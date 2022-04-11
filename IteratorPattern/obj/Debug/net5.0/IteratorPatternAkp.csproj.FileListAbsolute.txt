@@ -1,0 +1,16 @@
+C:\Users\apadg\source\repos\IteratorPattern akp\obj\Debug\net5.0\IteratorPatternAkp.csproj.AssemblyReference.cache
+C:\Users\apadg\source\repos\IteratorPattern akp\obj\Debug\net5.0\IteratorPatternAkp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apadg\source\repos\IteratorPattern akp\obj\Debug\net5.0\IteratorPatternAkp.AssemblyInfoInputs.cache
+C:\Users\apadg\source\repos\IteratorPattern akp\obj\Debug\net5.0\IteratorPatternAkp.AssemblyInfo.cs
+C:\Users\apadg\source\repos\IteratorPattern akp\obj\Debug\net5.0\IteratorPatternAkp.csproj.CoreCompileInputs.cache
+C:\Users\apadg\source\repos\IteratorPattern akp\bin\Debug\net5.0\IteratorPatternAkp.exe
+C:\Users\apadg\source\repos\IteratorPattern akp\bin\Debug\net5.0\IteratorPatternAkp.deps.json
+C:\Users\apadg\source\repos\IteratorPattern akp\bin\Debug\net5.0\IteratorPatternAkp.runtimeconfig.json
+C:\Users\apadg\source\repos\IteratorPattern akp\bin\Debug\net5.0\IteratorPatternAkp.runtimeconfig.dev.json
+C:\Users\apadg\source\repos\IteratorPattern akp\bin\Debug\net5.0\IteratorPatternAkp.dll
+C:\Users\apadg\source\repos\IteratorPattern akp\bin\Debug\net5.0\ref\IteratorPatternAkp.dll
+C:\Users\apadg\source\repos\IteratorPattern akp\bin\Debug\net5.0\IteratorPatternAkp.pdb
+C:\Users\apadg\source\repos\IteratorPattern akp\obj\Debug\net5.0\IteratorPatternAkp.dll
+C:\Users\apadg\source\repos\IteratorPattern akp\obj\Debug\net5.0\ref\IteratorPatternAkp.dll
+C:\Users\apadg\source\repos\IteratorPattern akp\obj\Debug\net5.0\IteratorPatternAkp.pdb
+C:\Users\apadg\source\repos\IteratorPattern akp\obj\Debug\net5.0\IteratorPatternAkp.genruntimeconfig.cache

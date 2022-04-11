@@ -1,0 +1,15 @@
+C:\Users\apadg\source\repos\AKPDecorator\bin\Debug\net5.0\AKPDecorator.exe
+C:\Users\apadg\source\repos\AKPDecorator\bin\Debug\net5.0\AKPDecorator.deps.json
+C:\Users\apadg\source\repos\AKPDecorator\bin\Debug\net5.0\AKPDecorator.runtimeconfig.json
+C:\Users\apadg\source\repos\AKPDecorator\bin\Debug\net5.0\AKPDecorator.runtimeconfig.dev.json
+C:\Users\apadg\source\repos\AKPDecorator\bin\Debug\net5.0\AKPDecorator.dll
+C:\Users\apadg\source\repos\AKPDecorator\bin\Debug\net5.0\ref\AKPDecorator.dll
+C:\Users\apadg\source\repos\AKPDecorator\bin\Debug\net5.0\AKPDecorator.pdb
+C:\Users\apadg\source\repos\AKPDecorator\obj\Debug\net5.0\AKPDecorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apadg\source\repos\AKPDecorator\obj\Debug\net5.0\AKPDecorator.AssemblyInfoInputs.cache
+C:\Users\apadg\source\repos\AKPDecorator\obj\Debug\net5.0\AKPDecorator.AssemblyInfo.cs
+C:\Users\apadg\source\repos\AKPDecorator\obj\Debug\net5.0\AKPDecorator.csproj.CoreCompileInputs.cache
+C:\Users\apadg\source\repos\AKPDecorator\obj\Debug\net5.0\AKPDecorator.dll
+C:\Users\apadg\source\repos\AKPDecorator\obj\Debug\net5.0\ref\AKPDecorator.dll
+C:\Users\apadg\source\repos\AKPDecorator\obj\Debug\net5.0\AKPDecorator.pdb
+C:\Users\apadg\source\repos\AKPDecorator\obj\Debug\net5.0\AKPDecorator.genruntimeconfig.cache

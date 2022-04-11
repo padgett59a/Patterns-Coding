@@ -1,0 +1,5 @@
+C:\Users\apadg\source\repos\FacadeCodeing\obj\Debug\net5.0\FacadeCodeing.csproj.AssemblyReference.cache
+C:\Users\apadg\source\repos\FacadeCodeing\obj\Debug\net5.0\FacadeCodeing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apadg\source\repos\FacadeCodeing\obj\Debug\net5.0\FacadeCodeing.AssemblyInfoInputs.cache
+C:\Users\apadg\source\repos\FacadeCodeing\obj\Debug\net5.0\FacadeCodeing.AssemblyInfo.cs
+C:\Users\apadg\source\repos\FacadeCodeing\obj\Debug\net5.0\FacadeCodeing.csproj.CoreCompileInputs.cache
